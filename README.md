@@ -7,3 +7,4 @@
 - Completed https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 - Completed https://leetcode.com/problems/product-of-array-except-self/
 - Completed https://leetcode.com/problems/remove-k-digits/ [PRACTICE AGAIN]
+- Completed https://leetcode.com/problems/decode-ways/ [PRACTICE AGAIN]
