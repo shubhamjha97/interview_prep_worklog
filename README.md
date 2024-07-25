@@ -13,3 +13,6 @@
 ## 07/25
 - Read Chapter 3 (Data Engineering Fundamentals) of Chip Huyen's book.
 - Sent resume and details to Kavita for Snap referral. [FOLLOW UP]
+- Blind 75 (Arrays)
+  - Completed https://leetcode.com/problems/contains-duplicate/
+  - 
