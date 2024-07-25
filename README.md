@@ -8,3 +8,7 @@
 - Completed https://leetcode.com/problems/product-of-array-except-self/
 - Completed https://leetcode.com/problems/remove-k-digits/ [PRACTICE AGAIN]
 - Completed https://leetcode.com/problems/decode-ways/ [PRACTICE AGAIN]
+- Completed https://leetcode.com/problems/reverse-words-in-a-string/
+
+## 07/25
+- Read Chapter 3 (Data Engineering Fundamentals) of Chip Huyen's book.
