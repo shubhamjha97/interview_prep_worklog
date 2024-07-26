@@ -22,4 +22,4 @@
 - Sent resume and details to Kumar for Glean referral
 - Texted Raquel for Lyft referral
 - Texted Viral Mehta for Stripe referral
-- Texted Reuben for StubHub referral
+- Texted Reuben Abraham for StubHub referral
