@@ -16,3 +16,10 @@
 - Blind 75 (Arrays)
   - Completed https://leetcode.com/problems/contains-duplicate/
   - Completed https://leetcode.com/problems/container-with-most-water/
+
+## 07/25
+- Applied to LiveRamp with Saim's referral
+- Sent resume and details to Kumar for Glean referral
+- Texted Raquel for Lyft referral
+- Texted Viral Mehta for Stripe referral
+- 
