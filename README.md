@@ -30,3 +30,6 @@
   - https://leetcode.com/problems/maximum-product-subarray/
   - https://leetcode.com/problems/maximum-subarray/
   - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+## 7/30
+- Completed Chapter 4 (Training Data) of Chip Huyen's book.
