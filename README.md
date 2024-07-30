@@ -23,3 +23,10 @@
 - Texted Raquel for Lyft referral
 - Texted Viral Mehta for Stripe referral
 - Texted Reuben Abraham for StubHub referral
+
+## 7/29
+- Completed [Blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) Arrays questions
+  - https://leetcode.com/problems/3sum/
+  - https://leetcode.com/problems/maximum-product-subarray/
+  - https://leetcode.com/problems/maximum-subarray/
+  - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
