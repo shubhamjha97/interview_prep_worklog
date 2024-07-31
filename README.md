@@ -33,3 +33,6 @@
 
 ## 7/30
 - Completed Chapter 4 (Training Data) of Chip Huyen's book.
+
+## 7/31
+- Completed Blind 75 Binary questions.
