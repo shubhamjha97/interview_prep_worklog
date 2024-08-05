@@ -36,3 +36,6 @@
 
 ## 7/31
 - Completed Blind 75 Binary questions.
+
+## 8/5
+- Completed Blind 75 Dynamic Programming questions.
